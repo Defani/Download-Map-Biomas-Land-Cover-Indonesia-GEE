@@ -82,3 +82,19 @@ Export.image.toDrive({
   maxPixels: 1e13,
   fileFormat: 'GeoTIFF'
 });
+```
+<img width="1920" height="1080" alt="Screenshot 2026-01-15 225234" src="https://github.com/user-attachments/assets/81bef477-6c6a-4959-bcd8-7b861008dec1" />
+**Export**
+
+
+https://github.com/user-attachments/assets/a9a2693c-417f-4ec6-bd24-3d1aa938e63d
+
+
+
+
+
+
+
+
+
+
