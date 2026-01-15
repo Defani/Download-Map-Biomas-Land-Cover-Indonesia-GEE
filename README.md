@@ -28,7 +28,7 @@ var TutupanLahan = PL_MapBiomas.select('classification_2024');
 
 ---
 
-## 🗺️ Kode Google Earth Engine (1 TAB – Langsung Copy)
+## 🗺️ Kode Google Earth Engine 
 
 ```javascript
 // Load MapBiomas Indonesia Collection 4
